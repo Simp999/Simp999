@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Discord Tools ...
 - 📫 How to reach me Simp.#0073 ...
 
-https://cdn.discordapp.com/attachments/905752939556110366/907310117769318430/20211108_010418.gif
-
+![This is an image](
+https://cdn.discordapp.com/attachments/905752939556110366/907310117769318430/20211108_010418.gif)
 
 
 <!---
